@@ -36,8 +36,8 @@
     }
     else{
       resultado.textContent = 'Preencha todos os campos!';
-      resultado.style.color = '#ffffff';
-      resultado.style.fontSize = '36px';
+        resultado.style.color = '#ffffff';
+        resultado.style.fontSize = '36px';
 
     }
  }
